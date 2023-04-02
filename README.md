@@ -1,8 +1,8 @@
 # Welcome to my GitHub! 🚀
 
-**🔍 Currently Under Review: Come Back Soon! 🔍**
+**🔍 Currently Under Examination: Come Back Soon! 🔍**
 
-Hey there, fellow developer! 👋 Thanks for stopping by my GitHub profile. I'm Sufyan, a aspiring software engineer, and I'm super excited to share my work with you. However, at the moment, all of my projects are under examination and not available for public display. But don't worry, they'll be on my profile soon! 🌟
+Hey there, fellow developer! 👋 Thanks for stopping by my GitHub profile. I'm Sufyan, an aspiring software engineer, and I'm super excited to share my work with you. However, at the moment, all of my projects are under examination and not available for public display. But don't worry, they'll be on my profile soon! 🌟
 
 In the meantime, let's get to know each other a little better! 😄
 
