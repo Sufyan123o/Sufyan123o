@@ -8,9 +8,9 @@ In the meantime, let's get to know each other a little better! 😄
 
 ## About Me 🤖
 
-- 💼 I'm a A level student and aspiring software engineer with experience in Python.
+- 💼 I'm an A-level student and aspiring software engineer with experience in Python.
 - 🌱 I'm always eager to learn new technologies and improve my skills.
-- 🎓 I am looking to study a BSc in Computer Science.
+- 🎓 I'm looking to study a BSc in Computer Science.
 - 💡 I love open-source projects and believe in the power of community-driven development.
 - 🎯 My goal is to build impactful and user-friendly applications that make a difference in the world.
 
