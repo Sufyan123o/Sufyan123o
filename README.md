@@ -1,6 +1,4 @@
-# Welcome to my GitHub! 🚀
-
-**🔍 Currently Under Examination: Come Back Soon! 🔍**
+# Welcome to my GitHub! 🚀 **🔍 Currently Under Examination: Come Back Soon! 🔍**
 
 Hey there, fellow developer! 👋 Thanks for stopping by my GitHub profile. I'm Sufyan, an aspiring software engineer, and I'm super excited to share my work with you. However, at the moment, all of my projects are under examination and not available for public display. But don't worry, they'll be on my profile soon! 🌟
 
@@ -18,8 +16,8 @@ In the meantime, let's get to know each other a little better! 😄
 
 While my projects are being reviewed, I'd love to connect with you on other platforms. Feel free to reach out to me on any of these channels:
 
-- [LinkedIn](https://www.linkedin.com/in/sufyan-osman-259625164/)
-- [Twitter](https://www.linkedin.com/in/sufyan-osman-259625164/)
+- [LinkedIn](https://linkedin.com/in/sufyan-osman-259625164)
+- [Twitter](https://twitter.com/SufyanOsman)
 - [Personal Website Coming Soon...](https://github.com/Sufyan123o)
 - [Checkout Our Discord Server YasCommunity where we help people learn to code with open source projects](https://discord.gg/jHRRd9gDYj)
 
@@ -27,6 +25,6 @@ You can also drop me an email at [sufyosman@gmail.com](mailto:sufyosman@gmail.co
 
 ## 🕒 Check Back Soon!
 
-I can't wait to share my work here! Make sure to come back later to explore my projects and repositories. In the meantime, feel free to follo ⭐️ and watch 👀 my profile so you'll be notified when my projects go live.
+I can't wait to share my work here! Make sure to come back later to explore my projects and repositories. In the meantime, feel free to follow ⭐️ and watch 👀 my profile so you'll be notified when my projects go live.
 
 See you soon! 🎉
