@@ -28,3 +28,8 @@ You can also drop me an email at [sufyosman@gmail.com](mailto:sufyosman@gmail.co
 I can't wait to share my work here! Make sure to come back later to explore my projects and repositories. In the meantime, feel free to follow ⭐️ and watch 👀 my profile so you'll be notified when my projects go live.
 
 See you soon! 🎉
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+</p>
+
