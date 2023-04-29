@@ -1,4 +1,3 @@
-# Welcome to my GitHub! 🚀
 ## About Me 🤖
 
 - 💼 I'm an A-level student and aspiring software engineer with experience in Python.
