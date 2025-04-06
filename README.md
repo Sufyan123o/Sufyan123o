@@ -1,5 +1,6 @@
 ## About Me 🤖
 - Software Dev @ [MedCamps](https://MedCamps.co.uk)
+- Founder @ [PlatesX](https://www.PlatesX.com)
 - 🌱 I'm always eager to learn new technologies and improve my skills.
 - 🎓 Student at Lancaster University studying a BSc Computer Science.
 - 💡 Im intrested in the developement of innovative soloutions!
