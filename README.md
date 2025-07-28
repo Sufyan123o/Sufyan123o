@@ -1,5 +1,5 @@
 ## About Me 🤖
-- 🎓 Penultimate year student at Lancaster University studying a BSc Computer Science.
+- 🎓 Undergraduate student at Lancaster University studying a BSc Computer Science (July 2026 Exp Grad).
 - 🌱 I'm always eager to learn new technologies and improve my skills.
 - 💡 Im intrested in the developement of innovative soloutions!
 You can drop me an email at [Sufyosman@gmail.com](mailto:sufyosman@gmail.com).
