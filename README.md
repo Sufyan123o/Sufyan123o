@@ -11,6 +11,7 @@ Software engineer based in London with a First Class BSc in Computer Science fro
 
 | Project | |
 | --- | --- |
+| [**Explainable Review Detection**](https://github.com/Sufyan123o/explainable-review-detection) | My Lancaster University dissertation. Fine-tuned transformer models detect AI-generated product reviews with 97.9% accuracy, and LIME explanations show moderators why each one was flagged. |
 | [**Wimbledon ACO Bot**](https://github.com/Sufyan123o/wimbeldon-ACO-BOT) | Monitors Wimbledon ticket releases and runs checkout the moment tickets appear. |
 | [**Cook-Aid (AI Recipe App)**](https://github.com/Sufyan123o/AI-Recipe-App) | Cooking assistant for visually impaired users. Two-time DurHack prize winner. |
 | [**Sole Retriever Monitor**](https://github.com/Sufyan123o/Sole-Retriever-Monitor) | Tracks newly listed sneaker raffles and sends alerts to Discord. |
