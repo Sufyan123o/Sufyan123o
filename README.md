@@ -18,7 +18,7 @@ Software engineer based in London with a First Class BSc in Computer Science fro
 
 ### Background
 
-- **Software Engineer Intern, Baer Dynamics** (2024) — worked on an insurance SaaS platform for underwriters and agents. Doubled scraping throughput and halved query times.
+- **Software Engineer Intern, Baer Dynamics** (2024) — worked on [Insurance Cloud](https://inscloud.net/about/), an insurance SaaS platform for underwriters and agents. Doubled scraping throughput and halved query times.
 - **Dissertation** — trained transformer models to detect AI-generated product reviews.
 - **President, Lancaster University MedTech Society** (2023–2025).
 
