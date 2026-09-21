@@ -1,5 +1,13 @@
 # Sufyan Osman
 
+### Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sufyan-osman-259625164/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sufyanosman.com"><img src="https://img.shields.io/badge/Portfolio-Visit-E0552B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:sufyosman@gmail.com"><img src="https://img.shields.io/badge/Email-sufyosman%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 Software engineer based in London with a First Class BSc in Computer Science from Lancaster University. I build automation, data and machine learning tools.
 
 ### Now
@@ -27,14 +35,6 @@ Software engineer based in London with a First Class BSc in Computer Science fro
 **Languages:** Python · JavaScript · SQL · Java · C/C++ · PHP
 
 **Frameworks & tools:** React · Next.js · Flask · Express · TensorFlow · Hugging Face · MySQL · Docker · Git
-
-### Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sufyan-osman-259625164/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://sufyanosman.com"><img src="https://img.shields.io/badge/Portfolio-Visit-E0552B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:sufyosman@gmail.com"><img src="https://img.shields.io/badge/Email-sufyosman%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
 
 ----------
 
